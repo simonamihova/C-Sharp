@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\bin\Debug\net6.0\ex13_Debugging.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\bin\Debug\net6.0\ex13_Debugging.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\bin\Debug\net6.0\ex13_Debugging.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\bin\Debug\net6.0\ex13_Debugging.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\bin\Debug\net6.0\ex13_Debugging.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\obj\Debug\net6.0\ex13_Debugging.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\obj\Debug\net6.0\ex13_Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\obj\Debug\net6.0\ex13_Debugging.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\obj\Debug\net6.0\ex13_Debugging.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\obj\Debug\net6.0\ex13_Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\obj\Debug\net6.0\ex13_Debugging.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\obj\Debug\net6.0\refint\ex13_Debugging.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\obj\Debug\net6.0\ex13_Debugging.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\obj\Debug\net6.0\ex13_Debugging.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex13_Debugging\obj\Debug\net6.0\ref\ex13_Debugging.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\obj\Debug\net6.0\ex3_PassedOrFailed.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\obj\Debug\net6.0\ex3_PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\obj\Debug\net6.0\ex3_PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\obj\Debug\net6.0\ex3_PassedOrFailed.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\obj\Debug\net6.0\ex3_PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\bin\Debug\net6.0\ex3_PassedOrFailed.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\bin\Debug\net6.0\ex3_PassedOrFailed.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\bin\Debug\net6.0\ex3_PassedOrFailed.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\bin\Debug\net6.0\ex3_PassedOrFailed.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\bin\Debug\net6.0\ex3_PassedOrFailed.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\obj\Debug\net6.0\ex3_PassedOrFailed.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\obj\Debug\net6.0\refint\ex3_PassedOrFailed.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\obj\Debug\net6.0\ex3_PassedOrFailed.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\obj\Debug\net6.0\ex3_PassedOrFailed.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex3_PassedOrFailed\obj\Debug\net6.0\ref\ex3_PassedOrFailed.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\bin\Debug\net6.0\ex6_Languages.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\bin\Debug\net6.0\ex6_Languages.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\bin\Debug\net6.0\ex6_Languages.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\bin\Debug\net6.0\ex6_Languages.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\bin\Debug\net6.0\ex6_Languages.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\obj\Debug\net6.0\ex6_Languages.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\obj\Debug\net6.0\ex6_Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\obj\Debug\net6.0\ex6_Languages.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\obj\Debug\net6.0\ex6_Languages.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\obj\Debug\net6.0\ex6_Languages.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\obj\Debug\net6.0\ex6_Languages.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\obj\Debug\net6.0\refint\ex6_Languages.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\obj\Debug\net6.0\ex6_Languages.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\obj\Debug\net6.0\ex6_Languages.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex6_Languages\obj\Debug\net6.0\ref\ex6_Languages.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\bin\Debug\net6.0\ex9_SumOfOddNumbers.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\bin\Debug\net6.0\ex9_SumOfOddNumbers.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\bin\Debug\net6.0\ex9_SumOfOddNumbers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\bin\Debug\net6.0\ex9_SumOfOddNumbers.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\bin\Debug\net6.0\ex9_SumOfOddNumbers.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\obj\Debug\net6.0\ex9_SumOfOddNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\obj\Debug\net6.0\ex9_SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\obj\Debug\net6.0\ex9_SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\obj\Debug\net6.0\ex9_SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\obj\Debug\net6.0\ex9_SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\obj\Debug\net6.0\ex9_SumOfOddNumbers.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\obj\Debug\net6.0\refint\ex9_SumOfOddNumbers.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\obj\Debug\net6.0\ex9_SumOfOddNumbers.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\obj\Debug\net6.0\ex9_SumOfOddNumbers.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex9_SumOfOddNumbers\obj\Debug\net6.0\ref\ex9_SumOfOddNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\bin\Debug\net6.0\ex2_Passed.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\bin\Debug\net6.0\ex2_Passed.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\bin\Debug\net6.0\ex2_Passed.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\bin\Debug\net6.0\ex2_Passed.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\bin\Debug\net6.0\ex2_Passed.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\obj\Debug\net6.0\ex2_Passed.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\obj\Debug\net6.0\ex2_Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\obj\Debug\net6.0\ex2_Passed.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\obj\Debug\net6.0\ex2_Passed.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\obj\Debug\net6.0\ex2_Passed.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\obj\Debug\net6.0\ex2_Passed.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\obj\Debug\net6.0\refint\ex2_Passed.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\obj\Debug\net6.0\ex2_Passed.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\obj\Debug\net6.0\ex2_Passed.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex2_Passed\obj\Debug\net6.0\ref\ex2_Passed.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\bin\Debug\net6.0\ex4_BackIn30Minutes.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\bin\Debug\net6.0\ex4_BackIn30Minutes.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\bin\Debug\net6.0\ex4_BackIn30Minutes.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\bin\Debug\net6.0\ex4_BackIn30Minutes.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\bin\Debug\net6.0\ex4_BackIn30Minutes.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\obj\Debug\net6.0\ex4_BackIn30Minutes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\obj\Debug\net6.0\ex4_BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\obj\Debug\net6.0\ex4_BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\obj\Debug\net6.0\ex4_BackIn30Minutes.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\obj\Debug\net6.0\ex4_BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\obj\Debug\net6.0\ex4_BackIn30Minutes.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\obj\Debug\net6.0\refint\ex4_BackIn30Minutes.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\obj\Debug\net6.0\ex4_BackIn30Minutes.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\obj\Debug\net6.0\ex4_BackIn30Minutes.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex4_BackIn30Minutes\obj\Debug\net6.0\ref\ex4_BackIn30Minutes.dll

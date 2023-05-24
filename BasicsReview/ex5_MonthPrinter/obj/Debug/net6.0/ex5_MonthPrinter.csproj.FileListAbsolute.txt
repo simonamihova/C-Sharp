@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\bin\Debug\net6.0\ex5_MonthPrinter.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\bin\Debug\net6.0\ex5_MonthPrinter.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\bin\Debug\net6.0\ex5_MonthPrinter.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\bin\Debug\net6.0\ex5_MonthPrinter.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\bin\Debug\net6.0\ex5_MonthPrinter.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\obj\Debug\net6.0\ex5_MonthPrinter.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\obj\Debug\net6.0\ex5_MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\obj\Debug\net6.0\ex5_MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\obj\Debug\net6.0\ex5_MonthPrinter.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\obj\Debug\net6.0\ex5_MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\obj\Debug\net6.0\ex5_MonthPrinter.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\obj\Debug\net6.0\refint\ex5_MonthPrinter.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\obj\Debug\net6.0\ex5_MonthPrinter.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\obj\Debug\net6.0\ex5_MonthPrinter.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex5_MonthPrinter\obj\Debug\net6.0\ref\ex5_MonthPrinter.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\bin\Debug\net6.0\ex10_MultiplicationTable.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\bin\Debug\net6.0\ex10_MultiplicationTable.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\bin\Debug\net6.0\ex10_MultiplicationTable.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\bin\Debug\net6.0\ex10_MultiplicationTable.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\bin\Debug\net6.0\ex10_MultiplicationTable.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\obj\Debug\net6.0\ex10_MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\obj\Debug\net6.0\ex10_MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\obj\Debug\net6.0\ex10_MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\obj\Debug\net6.0\ex10_MultiplicationTable.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\obj\Debug\net6.0\ex10_MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\obj\Debug\net6.0\ex10_MultiplicationTable.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\obj\Debug\net6.0\refint\ex10_MultiplicationTable.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\obj\Debug\net6.0\ex10_MultiplicationTable.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\obj\Debug\net6.0\ex10_MultiplicationTable.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex10_MultiplicationTable\obj\Debug\net6.0\ref\ex10_MultiplicationTable.dll

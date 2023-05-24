@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\obj\Debug\net6.0\ex7_Theatre.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\obj\Debug\net6.0\ex7_Theatre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\obj\Debug\net6.0\ex7_Theatre.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\obj\Debug\net6.0\ex7_Theatre.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\obj\Debug\net6.0\ex7_Theatre.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\bin\Debug\net6.0\ex7_Theatre.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\bin\Debug\net6.0\ex7_Theatre.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\bin\Debug\net6.0\ex7_Theatre.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\bin\Debug\net6.0\ex7_Theatre.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\bin\Debug\net6.0\ex7_Theatre.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\obj\Debug\net6.0\ex7_Theatre.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\obj\Debug\net6.0\refint\ex7_Theatre.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\obj\Debug\net6.0\ex7_Theatre.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\obj\Debug\net6.0\ex7_Theatre.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex7_Theatre\obj\Debug\net6.0\ref\ex7_Theatre.dll

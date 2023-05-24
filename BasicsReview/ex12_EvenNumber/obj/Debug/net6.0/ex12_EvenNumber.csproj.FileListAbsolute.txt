@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\obj\Debug\net6.0\ex12_EvenNumber.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\obj\Debug\net6.0\ex12_EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\obj\Debug\net6.0\ex12_EvenNumber.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\obj\Debug\net6.0\ex12_EvenNumber.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\obj\Debug\net6.0\ex12_EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\bin\Debug\net6.0\ex12_EvenNumber.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\bin\Debug\net6.0\ex12_EvenNumber.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\bin\Debug\net6.0\ex12_EvenNumber.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\bin\Debug\net6.0\ex12_EvenNumber.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\bin\Debug\net6.0\ex12_EvenNumber.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\obj\Debug\net6.0\ex12_EvenNumber.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\obj\Debug\net6.0\refint\ex12_EvenNumber.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\obj\Debug\net6.0\ex12_EvenNumber.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\obj\Debug\net6.0\ex12_EvenNumber.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\BasicsReview\ex12_EvenNumber\obj\Debug\net6.0\ref\ex12_EvenNumber.dll
