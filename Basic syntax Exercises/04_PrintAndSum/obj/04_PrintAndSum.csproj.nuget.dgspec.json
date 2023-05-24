@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Basic syntax Exercises\\04_PrintAndSum\\04_PrintAndSum.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Basic syntax Exercises\\04_PrintAndSum\\04_PrintAndSum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Basic syntax Exercises\\04_PrintAndSum\\04_PrintAndSum.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Basic syntax Exercises\\04_PrintAndSum\\04_PrintAndSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Basic syntax Exercises\\04_PrintAndSum\\04_PrintAndSum.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Basic syntax Exercises\\04_PrintAndSum\\04_PrintAndSum.csproj",
         "projectName": "04_PrintAndSum",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Basic syntax Exercises\\04_PrintAndSum\\04_PrintAndSum.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Basic syntax Exercises\\04_PrintAndSum\\04_PrintAndSum.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Basic syntax Exercises\\04_PrintAndSum\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Basic syntax Exercises\\04_PrintAndSum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

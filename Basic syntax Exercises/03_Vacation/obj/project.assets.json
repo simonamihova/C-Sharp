@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Basic syntax Exercises\\03_Vacation\\03_Vacation.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Basic syntax Exercises\\03_Vacation\\03_Vacation.csproj",
       "projectName": "03_Vacation",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Basic syntax Exercises\\03_Vacation\\03_Vacation.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Basic syntax Exercises\\03_Vacation\\03_Vacation.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Basic syntax Exercises\\03_Vacation\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Basic syntax Exercises\\03_Vacation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

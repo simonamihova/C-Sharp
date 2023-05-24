@@ -36,6 +36,8 @@ namespace _07_VendingMachine
 
             while (input != "End")
             {
+                
+
                 switch (input)
                 {
                     case "Nuts":
@@ -105,14 +107,12 @@ namespace _07_VendingMachine
                         Console.WriteLine("Invalid product");
                         break;
 
-                        input = Console.ReadLine();
-
-                     
-
                 }
 
-               
+                input = Console.ReadLine();
+
             }
+
             Console.WriteLine($"Change: {sum:F2}");
         }
     }
