@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\bin\Debug\net6.0\02_CommonElements.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\bin\Debug\net6.0\02_CommonElements.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\bin\Debug\net6.0\02_CommonElements.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\bin\Debug\net6.0\02_CommonElements.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\bin\Debug\net6.0\02_CommonElements.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\obj\Debug\net6.0\02_CommonElements.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\obj\Debug\net6.0\02_CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\obj\Debug\net6.0\02_CommonElements.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\obj\Debug\net6.0\02_CommonElements.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\obj\Debug\net6.0\02_CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\obj\Debug\net6.0\02_CommonElements.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\obj\Debug\net6.0\refint\02_CommonElements.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\obj\Debug\net6.0\02_CommonElements.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\obj\Debug\net6.0\02_CommonElements.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays\02_CommonElements\obj\Debug\net6.0\ref\02_CommonElements.dll
