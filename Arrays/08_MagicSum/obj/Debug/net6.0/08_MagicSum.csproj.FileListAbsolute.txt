@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\bin\Debug\net6.0\08_MagicSum.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\bin\Debug\net6.0\08_MagicSum.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\bin\Debug\net6.0\08_MagicSum.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\bin\Debug\net6.0\08_MagicSum.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\bin\Debug\net6.0\08_MagicSum.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\obj\Debug\net6.0\08_MagicSum.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\obj\Debug\net6.0\08_MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\obj\Debug\net6.0\08_MagicSum.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\obj\Debug\net6.0\08_MagicSum.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\obj\Debug\net6.0\08_MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\obj\Debug\net6.0\08_MagicSum.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\obj\Debug\net6.0\refint\08_MagicSum.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\obj\Debug\net6.0\08_MagicSum.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\obj\Debug\net6.0\08_MagicSum.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\08_MagicSum\obj\Debug\net6.0\ref\08_MagicSum.dll
