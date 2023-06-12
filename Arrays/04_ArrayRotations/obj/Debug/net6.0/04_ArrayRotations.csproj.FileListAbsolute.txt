@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\obj\Debug\net6.0\04_ArrayRotations.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\obj\Debug\net6.0\04_ArrayRotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\obj\Debug\net6.0\04_ArrayRotations.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\obj\Debug\net6.0\04_ArrayRotations.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\obj\Debug\net6.0\04_ArrayRotations.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\bin\Debug\net6.0\04_ArrayRotations.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\bin\Debug\net6.0\04_ArrayRotations.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\bin\Debug\net6.0\04_ArrayRotations.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\bin\Debug\net6.0\04_ArrayRotations.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\bin\Debug\net6.0\04_ArrayRotations.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\obj\Debug\net6.0\04_ArrayRotations.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\obj\Debug\net6.0\refint\04_ArrayRotations.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\obj\Debug\net6.0\04_ArrayRotations.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\obj\Debug\net6.0\04_ArrayRotations.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\04_ArrayRotations\obj\Debug\net6.0\ref\04_ArrayRotations.dll

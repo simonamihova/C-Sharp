@@ -1,4 +1,6 @@
-﻿namespace _03_ZigZagArrays
+﻿using System.Linq;
+
+namespace _03_ZigZagArrays
 {
     internal class Program
     {
@@ -9,13 +11,30 @@
 
             int n = int.Parse(Console.ReadLine());
 
-            int[] arr1 = new int[n / 2];
-            int[] arr2 = new int[n / 2];
+            string[] arr1 = new string[n];
+            string[] arr2 = new string[n];
+
+            bool zig = true;
+
             for (int i = 0; i < n; i++)
             {
-                arr1[i] = int.Parse(Console.ReadLine());
+                string input = Console.ReadLine();
+                string[] temp = input.Split(' ');
+                if (i%2 == 0)
+                {
+                    arr1[i] = temp[0];
+                    arr2[i] = temp[1];
+                } 
+                else
+                {
+                    arr1[i] = temp[1];
+                    arr2[i] = temp[0];
+                }
 
             }
+            Console.WriteLine(string.Join(" ", arr1));
+            Console.WriteLine(string.Join(" ", arr2));
+            
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Arrays\\03_ZigZagArrays\\03_ZigZagArrays.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Arrays\\03_ZigZagArrays\\03_ZigZagArrays.csproj",
       "projectName": "03_ZigZagArrays",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Arrays\\03_ZigZagArrays\\03_ZigZagArrays.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Arrays\\03_ZigZagArrays\\03_ZigZagArrays.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Arrays\\03_ZigZagArrays\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Arrays\\03_ZigZagArrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
