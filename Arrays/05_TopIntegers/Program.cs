@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             /*
              1 4 3 2 -> 4 3 2
@@ -10,7 +10,55 @@
              27 19 42 2 13 45 48 -> 48
              */
 
-            string[] arr = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).ToArray();
+            int[] numbers = Console.ReadLine()
+                                   .Split()
+                                   .Select(int.Parse)
+                                   .ToArray();
+
+            bool isTopInteger = true;
+
+            for (int i = 0; i < numbers.Length; i++) 
+            {
+                for (int j = i + 1; j < numbers.Length; j++)
+                {
+                    if (numbers[i] <= numbers[j])
+                    {
+                        isTopInteger = false;
+                        break;
+                    }
+                }
+                if (isTopInteger)
+                {
+                    Console.Write($"{numbers[i]} ");
+                }
+                isTopInteger = true;
+            }
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            /*string[] arr = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).ToArray();
             int[] numbers = new int [arr.Length];
             bool tracker = false;
 
@@ -44,7 +92,7 @@
                     Console.Write($"{numbers[j]} ");
                 }
 
-            }
+            }*/
         }
     }
 }
