@@ -11,6 +11,7 @@
             string[] input = Console.ReadLine().Split(" ");
             int bestCount = 0;
             string symbol = ""; 
+
             for (int i = 0; i < input.Length; i++)
             {
                 int count = 1;

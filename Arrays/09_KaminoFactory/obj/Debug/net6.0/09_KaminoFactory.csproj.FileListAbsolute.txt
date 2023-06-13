@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\bin\Debug\net6.0\09_KaminoFactory.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\bin\Debug\net6.0\09_KaminoFactory.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\bin\Debug\net6.0\09_KaminoFactory.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\bin\Debug\net6.0\09_KaminoFactory.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\bin\Debug\net6.0\09_KaminoFactory.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\obj\Debug\net6.0\09_KaminoFactory.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\obj\Debug\net6.0\09_KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\obj\Debug\net6.0\09_KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\obj\Debug\net6.0\09_KaminoFactory.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\obj\Debug\net6.0\09_KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\obj\Debug\net6.0\09_KaminoFactory.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\obj\Debug\net6.0\refint\09_KaminoFactory.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\obj\Debug\net6.0\09_KaminoFactory.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\obj\Debug\net6.0\09_KaminoFactory.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Arrays\09_KaminoFactory\obj\Debug\net6.0\ref\09_KaminoFactory.dll
