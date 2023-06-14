@@ -44,6 +44,10 @@ namespace _09_KaminoFactory
 
             
             int[] bestSequence = Array.Empty<int>();
+            int count = 0, bestCount = 0; ;
+            int sum = 0, bestSum  = 0;
+            int index = 0;
+            int bestStartIndex = int.MaxValue;
 
             while (true)
             {
@@ -55,7 +59,26 @@ namespace _09_KaminoFactory
                 sequence = command.Split("!", StringSplitOptions.RemoveEmptyEntries)
                                         .Select(int.Parse)
                                         .ToArray();
-                
+                index += 1;
+                for (int i = 0; i < sequenceLength; i++) 
+                {
+                    if (sequence[i] == 0)
+                    {
+                        count = 0;
+                        break;
+                    }
+                    count++;
+                    sum++;
+                   
+                    if (count > bestCount || bestStartIndex > i || sum > bestSum)
+                    {
+                        bestCount = count;
+                        bestSequence = sequence;
+                        bestStartIndex = i;
+                        bestSum = sum;
+                    }
+                }
+
                
 
             }
@@ -66,8 +89,10 @@ namespace _09_KaminoFactory
                 "Best DNA sample {bestSequenceIndex} with sum: {bestSequenceSum}."
                 "{DNA sequence, joined by space}"
             */
-            
-          
+            Console.WriteLine($"Best DNA sample {index} with sum: {bestSum}.");
+            Console.WriteLine(string.Join(" ", bestSequence));
+
+
         }    
     }
 }
