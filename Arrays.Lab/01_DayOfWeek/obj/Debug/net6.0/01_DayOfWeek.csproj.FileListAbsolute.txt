@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\bin\Debug\net6.0\01_DayOfWeek.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\bin\Debug\net6.0\01_DayOfWeek.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\bin\Debug\net6.0\01_DayOfWeek.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\bin\Debug\net6.0\01_DayOfWeek.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\bin\Debug\net6.0\01_DayOfWeek.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\obj\Debug\net6.0\01_DayOfWeek.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\obj\Debug\net6.0\01_DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\obj\Debug\net6.0\01_DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\obj\Debug\net6.0\01_DayOfWeek.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\obj\Debug\net6.0\01_DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\obj\Debug\net6.0\01_DayOfWeek.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\obj\Debug\net6.0\refint\01_DayOfWeek.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\obj\Debug\net6.0\01_DayOfWeek.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\obj\Debug\net6.0\01_DayOfWeek.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\01_DayOfWeek\obj\Debug\net6.0\ref\01_DayOfWeek.dll

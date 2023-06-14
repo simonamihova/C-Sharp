@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\bin\Debug\net6.0\01_SignOfIntegerNumbers.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\bin\Debug\net6.0\01_SignOfIntegerNumbers.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\bin\Debug\net6.0\01_SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\bin\Debug\net6.0\01_SignOfIntegerNumbers.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\bin\Debug\net6.0\01_SignOfIntegerNumbers.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\obj\Debug\net6.0\01_SignOfIntegerNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\obj\Debug\net6.0\01_SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\obj\Debug\net6.0\01_SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\obj\Debug\net6.0\01_SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\obj\Debug\net6.0\01_SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\obj\Debug\net6.0\01_SignOfIntegerNumbers.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\obj\Debug\net6.0\refint\01_SignOfIntegerNumbers.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\obj\Debug\net6.0\01_SignOfIntegerNumbers.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\obj\Debug\net6.0\01_SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\01_SignOfIntegerNumbers\obj\Debug\net6.0\ref\01_SignOfIntegerNumbers.dll

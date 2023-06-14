@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\bin\Debug\net6.0\03_ReverseArrayOfStrings.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\bin\Debug\net6.0\03_ReverseArrayOfStrings.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\bin\Debug\net6.0\03_ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\bin\Debug\net6.0\03_ReverseArrayOfStrings.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\bin\Debug\net6.0\03_ReverseArrayOfStrings.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\obj\Debug\net6.0\03_ReverseArrayOfStrings.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\obj\Debug\net6.0\03_ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\obj\Debug\net6.0\03_ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\obj\Debug\net6.0\03_ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\obj\Debug\net6.0\03_ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\obj\Debug\net6.0\03_ReverseArrayOfStrings.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\obj\Debug\net6.0\refint\03_ReverseArrayOfStrings.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\obj\Debug\net6.0\03_ReverseArrayOfStrings.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\obj\Debug\net6.0\03_ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_ReverseArrayOfStrings\obj\Debug\net6.0\ref\03_ReverseArrayOfStrings.dll

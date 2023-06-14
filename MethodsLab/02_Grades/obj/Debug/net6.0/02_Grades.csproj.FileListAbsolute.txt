@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\bin\Debug\net6.0\02_Grades.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\bin\Debug\net6.0\02_Grades.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\bin\Debug\net6.0\02_Grades.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\bin\Debug\net6.0\02_Grades.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\bin\Debug\net6.0\02_Grades.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\obj\Debug\net6.0\02_Grades.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\obj\Debug\net6.0\02_Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\obj\Debug\net6.0\02_Grades.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\obj\Debug\net6.0\02_Grades.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\obj\Debug\net6.0\02_Grades.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\obj\Debug\net6.0\02_Grades.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\obj\Debug\net6.0\refint\02_Grades.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\obj\Debug\net6.0\02_Grades.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\obj\Debug\net6.0\02_Grades.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\01_SignOfIntegerNumbers\02_Grades\obj\Debug\net6.0\ref\02_Grades.dll

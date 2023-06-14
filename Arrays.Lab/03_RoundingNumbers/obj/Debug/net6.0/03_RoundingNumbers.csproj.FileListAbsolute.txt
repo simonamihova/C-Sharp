@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\bin\Debug\net6.0\03_RoundingNumbers.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\bin\Debug\net6.0\03_RoundingNumbers.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\bin\Debug\net6.0\03_RoundingNumbers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\bin\Debug\net6.0\03_RoundingNumbers.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\bin\Debug\net6.0\03_RoundingNumbers.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\obj\Debug\net6.0\03_RoundingNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\obj\Debug\net6.0\03_RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\obj\Debug\net6.0\03_RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\obj\Debug\net6.0\03_RoundingNumbers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\obj\Debug\net6.0\03_RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\obj\Debug\net6.0\03_RoundingNumbers.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\obj\Debug\net6.0\refint\03_RoundingNumbers.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\obj\Debug\net6.0\03_RoundingNumbers.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\obj\Debug\net6.0\03_RoundingNumbers.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Arrays.Lab\03_RoundingNumbers\obj\Debug\net6.0\ref\03_RoundingNumbers.dll
