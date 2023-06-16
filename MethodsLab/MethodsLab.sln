@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_GetRectangleArea", "06_G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_RepeatString", "07_RepeatString\07_RepeatString.csproj", "{F2AE0E1C-AA90-4D07-9E37-8E1FA4754E22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_MathPower", "08_MathPower\08_MathPower.csproj", "{F6054EEC-62DB-4D21-92B8-A137008180CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F2AE0E1C-AA90-4D07-9E37-8E1FA4754E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2AE0E1C-AA90-4D07-9E37-8E1FA4754E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2AE0E1C-AA90-4D07-9E37-8E1FA4754E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6054EEC-62DB-4D21-92B8-A137008180CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6054EEC-62DB-4D21-92B8-A137008180CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6054EEC-62DB-4D21-92B8-A137008180CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6054EEC-62DB-4D21-92B8-A137008180CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

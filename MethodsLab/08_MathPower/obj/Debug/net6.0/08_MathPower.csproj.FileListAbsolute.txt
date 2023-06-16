@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\bin\Debug\net6.0\08_MathPower.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\bin\Debug\net6.0\08_MathPower.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\bin\Debug\net6.0\08_MathPower.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\bin\Debug\net6.0\08_MathPower.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\bin\Debug\net6.0\08_MathPower.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\obj\Debug\net6.0\08_MathPower.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\obj\Debug\net6.0\08_MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\obj\Debug\net6.0\08_MathPower.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\obj\Debug\net6.0\08_MathPower.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\obj\Debug\net6.0\08_MathPower.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\obj\Debug\net6.0\08_MathPower.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\obj\Debug\net6.0\refint\08_MathPower.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\obj\Debug\net6.0\08_MathPower.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\obj\Debug\net6.0\08_MathPower.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\08_MathPower\obj\Debug\net6.0\ref\08_MathPower.dll
