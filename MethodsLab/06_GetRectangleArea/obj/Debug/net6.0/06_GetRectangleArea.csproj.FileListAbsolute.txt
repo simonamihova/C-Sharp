@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\bin\Debug\net6.0\06_GetRectangleArea.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\bin\Debug\net6.0\06_GetRectangleArea.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\bin\Debug\net6.0\06_GetRectangleArea.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\bin\Debug\net6.0\06_GetRectangleArea.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\bin\Debug\net6.0\06_GetRectangleArea.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\obj\Debug\net6.0\06_GetRectangleArea.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\obj\Debug\net6.0\06_GetRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\obj\Debug\net6.0\06_GetRectangleArea.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\obj\Debug\net6.0\06_GetRectangleArea.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\obj\Debug\net6.0\06_GetRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\obj\Debug\net6.0\06_GetRectangleArea.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\obj\Debug\net6.0\refint\06_GetRectangleArea.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\obj\Debug\net6.0\06_GetRectangleArea.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\obj\Debug\net6.0\06_GetRectangleArea.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\06_GetRectangleArea\obj\Debug\net6.0\ref\06_GetRectangleArea.dll
