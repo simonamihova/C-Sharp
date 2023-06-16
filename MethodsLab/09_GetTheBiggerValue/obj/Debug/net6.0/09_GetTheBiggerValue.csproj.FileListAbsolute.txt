@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\bin\Debug\net6.0\09_GetTheBiggerValue.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\bin\Debug\net6.0\09_GetTheBiggerValue.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\bin\Debug\net6.0\09_GetTheBiggerValue.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\bin\Debug\net6.0\09_GetTheBiggerValue.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\bin\Debug\net6.0\09_GetTheBiggerValue.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\obj\Debug\net6.0\09_GetTheBiggerValue.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\obj\Debug\net6.0\09_GetTheBiggerValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\obj\Debug\net6.0\09_GetTheBiggerValue.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\obj\Debug\net6.0\09_GetTheBiggerValue.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\obj\Debug\net6.0\09_GetTheBiggerValue.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\obj\Debug\net6.0\09_GetTheBiggerValue.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\obj\Debug\net6.0\refint\09_GetTheBiggerValue.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\obj\Debug\net6.0\09_GetTheBiggerValue.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\obj\Debug\net6.0\09_GetTheBiggerValue.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\09_GetTheBiggerValue\obj\Debug\net6.0\ref\09_GetTheBiggerValue.dll
