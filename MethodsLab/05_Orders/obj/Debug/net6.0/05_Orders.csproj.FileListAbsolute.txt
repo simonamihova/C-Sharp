@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\bin\Debug\net6.0\05_Orders.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\bin\Debug\net6.0\05_Orders.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\bin\Debug\net6.0\05_Orders.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\bin\Debug\net6.0\05_Orders.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\bin\Debug\net6.0\05_Orders.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\obj\Debug\net6.0\05_Orders.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\obj\Debug\net6.0\05_Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\obj\Debug\net6.0\05_Orders.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\obj\Debug\net6.0\05_Orders.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\obj\Debug\net6.0\05_Orders.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\obj\Debug\net6.0\05_Orders.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\obj\Debug\net6.0\refint\05_Orders.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\obj\Debug\net6.0\05_Orders.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\obj\Debug\net6.0\05_Orders.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\05_Orders\obj\Debug\net6.0\ref\05_Orders.dll

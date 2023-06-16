@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\obj\Debug\net6.0\03_Calculations.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\obj\Debug\net6.0\03_Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\obj\Debug\net6.0\03_Calculations.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\obj\Debug\net6.0\03_Calculations.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\obj\Debug\net6.0\03_Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\bin\Debug\net6.0\03_Calculations.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\bin\Debug\net6.0\03_Calculations.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\bin\Debug\net6.0\03_Calculations.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\bin\Debug\net6.0\03_Calculations.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\bin\Debug\net6.0\03_Calculations.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\obj\Debug\net6.0\03_Calculations.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\obj\Debug\net6.0\refint\03_Calculations.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\obj\Debug\net6.0\03_Calculations.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\obj\Debug\net6.0\03_Calculations.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\03_Calculations\obj\Debug\net6.0\ref\03_Calculations.dll

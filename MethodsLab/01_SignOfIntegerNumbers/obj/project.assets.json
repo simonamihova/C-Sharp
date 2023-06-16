@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\01_SignOfIntegerNumbers\\01_SignOfIntegerNumbers\\01_SignOfIntegerNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\MethodsLab\\01_SignOfIntegerNumbers\\01_SignOfIntegerNumbers.csproj",
       "projectName": "01_SignOfIntegerNumbers",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\01_SignOfIntegerNumbers\\01_SignOfIntegerNumbers\\01_SignOfIntegerNumbers.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\MethodsLab\\01_SignOfIntegerNumbers\\01_SignOfIntegerNumbers.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\01_SignOfIntegerNumbers\\01_SignOfIntegerNumbers\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\MethodsLab\\01_SignOfIntegerNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\bin\Debug\net6.0\04_PrintingTriangle.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\bin\Debug\net6.0\04_PrintingTriangle.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\bin\Debug\net6.0\04_PrintingTriangle.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\bin\Debug\net6.0\04_PrintingTriangle.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\bin\Debug\net6.0\04_PrintingTriangle.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\obj\Debug\net6.0\04_PrintingTriangle.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\obj\Debug\net6.0\04_PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\obj\Debug\net6.0\04_PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\obj\Debug\net6.0\04_PrintingTriangle.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\obj\Debug\net6.0\04_PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\obj\Debug\net6.0\04_PrintingTriangle.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\obj\Debug\net6.0\refint\04_PrintingTriangle.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\obj\Debug\net6.0\04_PrintingTriangle.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\obj\Debug\net6.0\04_PrintingTriangle.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\04_PrintingTriangle\obj\Debug\net6.0\ref\04_PrintingTriangle.dll
