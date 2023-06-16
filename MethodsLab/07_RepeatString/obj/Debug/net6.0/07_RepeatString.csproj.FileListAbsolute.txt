@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\bin\Debug\net6.0\07_RepeatString.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\bin\Debug\net6.0\07_RepeatString.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\bin\Debug\net6.0\07_RepeatString.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\bin\Debug\net6.0\07_RepeatString.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\bin\Debug\net6.0\07_RepeatString.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\obj\Debug\net6.0\07_RepeatString.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\obj\Debug\net6.0\07_RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\obj\Debug\net6.0\07_RepeatString.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\obj\Debug\net6.0\07_RepeatString.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\obj\Debug\net6.0\07_RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\obj\Debug\net6.0\07_RepeatString.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\obj\Debug\net6.0\refint\07_RepeatString.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\obj\Debug\net6.0\07_RepeatString.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\obj\Debug\net6.0\07_RepeatString.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\07_RepeatString\obj\Debug\net6.0\ref\07_RepeatString.dll
