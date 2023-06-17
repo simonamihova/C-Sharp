@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\bin\Debug\net6.0\10_MultiplyEvenByOdds.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\bin\Debug\net6.0\10_MultiplyEvenByOdds.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\bin\Debug\net6.0\10_MultiplyEvenByOdds.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\bin\Debug\net6.0\10_MultiplyEvenByOdds.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\bin\Debug\net6.0\10_MultiplyEvenByOdds.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\obj\Debug\net6.0\10_MultiplyEvenByOdds.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\obj\Debug\net6.0\10_MultiplyEvenByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\obj\Debug\net6.0\10_MultiplyEvenByOdds.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\obj\Debug\net6.0\10_MultiplyEvenByOdds.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\obj\Debug\net6.0\10_MultiplyEvenByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\obj\Debug\net6.0\10_MultiplyEvenByOdds.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\obj\Debug\net6.0\refint\10_MultiplyEvenByOdds.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\obj\Debug\net6.0\10_MultiplyEvenByOdds.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\obj\Debug\net6.0\10_MultiplyEvenByOdds.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\MethodsLab\10_MultiplyEvenByOdds\obj\Debug\net6.0\ref\10_MultiplyEvenByOdds.dll
