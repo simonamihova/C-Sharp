@@ -13,6 +13,8 @@ namespace _01_SmallestOfThreeNumbers
             Console.WriteLine(result);
 
 
+
+
         }
 
         static int GetMinOfThree(int a, int b, int c)

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\bin\Debug\net6.0\07_NxNmatrix.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\bin\Debug\net6.0\07_NxNmatrix.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\bin\Debug\net6.0\07_NxNmatrix.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\bin\Debug\net6.0\07_NxNmatrix.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\bin\Debug\net6.0\07_NxNmatrix.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\obj\Debug\net6.0\07_NxNmatrix.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\obj\Debug\net6.0\07_NxNmatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\obj\Debug\net6.0\07_NxNmatrix.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\obj\Debug\net6.0\07_NxNmatrix.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\obj\Debug\net6.0\07_NxNmatrix.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\obj\Debug\net6.0\07_NxNmatrix.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\obj\Debug\net6.0\refint\07_NxNmatrix.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\obj\Debug\net6.0\07_NxNmatrix.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\obj\Debug\net6.0\07_NxNmatrix.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\07_NxNmatrix\obj\Debug\net6.0\ref\07_NxNmatrix.dll

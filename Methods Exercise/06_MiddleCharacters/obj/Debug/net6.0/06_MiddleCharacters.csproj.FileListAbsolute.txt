@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\bin\Debug\net6.0\06_MiddleCharacters.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\bin\Debug\net6.0\06_MiddleCharacters.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\bin\Debug\net6.0\06_MiddleCharacters.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\bin\Debug\net6.0\06_MiddleCharacters.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\bin\Debug\net6.0\06_MiddleCharacters.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\obj\Debug\net6.0\06_MiddleCharacters.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\obj\Debug\net6.0\06_MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\obj\Debug\net6.0\06_MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\obj\Debug\net6.0\06_MiddleCharacters.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\obj\Debug\net6.0\06_MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\obj\Debug\net6.0\06_MiddleCharacters.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\obj\Debug\net6.0\refint\06_MiddleCharacters.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\obj\Debug\net6.0\06_MiddleCharacters.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\obj\Debug\net6.0\06_MiddleCharacters.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\06_MiddleCharacters\obj\Debug\net6.0\ref\06_MiddleCharacters.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\bin\Debug\net6.0\05_AddAndSubstract.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\bin\Debug\net6.0\05_AddAndSubstract.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\bin\Debug\net6.0\05_AddAndSubstract.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\bin\Debug\net6.0\05_AddAndSubstract.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\bin\Debug\net6.0\05_AddAndSubstract.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\obj\Debug\net6.0\05_AddAndSubstract.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\obj\Debug\net6.0\05_AddAndSubstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\obj\Debug\net6.0\05_AddAndSubstract.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\obj\Debug\net6.0\05_AddAndSubstract.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\obj\Debug\net6.0\05_AddAndSubstract.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\obj\Debug\net6.0\05_AddAndSubstract.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\obj\Debug\net6.0\refint\05_AddAndSubstract.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\obj\Debug\net6.0\05_AddAndSubstract.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\obj\Debug\net6.0\05_AddAndSubstract.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\05_AddAndSubstract\obj\Debug\net6.0\ref\05_AddAndSubstract.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\bin\Debug\net6.0\08_FactorialDivision.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\bin\Debug\net6.0\08_FactorialDivision.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\bin\Debug\net6.0\08_FactorialDivision.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\bin\Debug\net6.0\08_FactorialDivision.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\bin\Debug\net6.0\08_FactorialDivision.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\obj\Debug\net6.0\08_FactorialDivision.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\obj\Debug\net6.0\08_FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\obj\Debug\net6.0\08_FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\obj\Debug\net6.0\08_FactorialDivision.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\obj\Debug\net6.0\08_FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\obj\Debug\net6.0\08_FactorialDivision.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\obj\Debug\net6.0\refint\08_FactorialDivision.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\obj\Debug\net6.0\08_FactorialDivision.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\obj\Debug\net6.0\08_FactorialDivision.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\08_FactorialDivision\obj\Debug\net6.0\ref\08_FactorialDivision.dll
