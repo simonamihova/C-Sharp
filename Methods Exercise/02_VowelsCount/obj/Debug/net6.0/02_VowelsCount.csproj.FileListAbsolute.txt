@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\bin\Debug\net6.0\02_VowelsCount.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\bin\Debug\net6.0\02_VowelsCount.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\bin\Debug\net6.0\02_VowelsCount.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\bin\Debug\net6.0\02_VowelsCount.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\bin\Debug\net6.0\02_VowelsCount.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\obj\Debug\net6.0\02_VowelsCount.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\obj\Debug\net6.0\02_VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\obj\Debug\net6.0\02_VowelsCount.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\obj\Debug\net6.0\02_VowelsCount.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\obj\Debug\net6.0\02_VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\obj\Debug\net6.0\02_VowelsCount.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\obj\Debug\net6.0\refint\02_VowelsCount.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\obj\Debug\net6.0\02_VowelsCount.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\obj\Debug\net6.0\02_VowelsCount.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\02_VowelsCount\obj\Debug\net6.0\ref\02_VowelsCount.dll

@@ -9,23 +9,24 @@ namespace _01_SmallestOfThreeNumbers
             int b = int.Parse(Console.ReadLine());
             int c = int.Parse(Console.ReadLine());
 
-            int result = GetMaxOfThree(a, b, c);
+            int result = GetMinOfThree(a, b, c);
             Console.WriteLine(result);
 
 
         }
 
-        static int GetMaxOfThree(int a, int b, int c)
+        static int GetMinOfThree(int a, int b, int c)
         {
-            int maxNum = 0;
-            maxNum = Math.Max(a, b);
-            if(maxNum > Math.Max(b,c))
+            
+            int firstResult = Math.Min(a, b);
+            int secondResult = Math.Min(b, c);
+            if(firstResult > secondResult)
             {
-                return maxNum;
+                return secondResult;
             }
             else
             {
-                return Math.Max(b, c);
+                return firstResult;
             }
         }
     }
