@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\bin\Debug\net6.0\01_MetresToKilometres.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\bin\Debug\net6.0\01_MetresToKilometres.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\bin\Debug\net6.0\01_MetresToKilometres.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\bin\Debug\net6.0\01_MetresToKilometres.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\bin\Debug\net6.0\01_MetresToKilometres.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\obj\Debug\net6.0\01_MetresToKilometres.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\obj\Debug\net6.0\01_MetresToKilometres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\obj\Debug\net6.0\01_MetresToKilometres.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\obj\Debug\net6.0\01_MetresToKilometres.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\obj\Debug\net6.0\01_MetresToKilometres.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\obj\Debug\net6.0\01_MetresToKilometres.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\obj\Debug\net6.0\refint\01_MetresToKilometres.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\obj\Debug\net6.0\01_MetresToKilometres.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\obj\Debug\net6.0\01_MetresToKilometres.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\DataTypesAndVariables\01_MetresToKilometres\obj\Debug\net6.0\ref\01_MetresToKilometres.dll
