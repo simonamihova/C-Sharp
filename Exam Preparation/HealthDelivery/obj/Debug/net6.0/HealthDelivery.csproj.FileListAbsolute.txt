@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\bin\Debug\net6.0\HealthDelivery.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\bin\Debug\net6.0\HealthDelivery.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\bin\Debug\net6.0\HealthDelivery.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\bin\Debug\net6.0\HealthDelivery.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\bin\Debug\net6.0\HealthDelivery.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\obj\Debug\net6.0\HealthDelivery.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\obj\Debug\net6.0\HealthDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\obj\Debug\net6.0\HealthDelivery.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\obj\Debug\net6.0\HealthDelivery.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\obj\Debug\net6.0\HealthDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\obj\Debug\net6.0\HealthDelivery.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\obj\Debug\net6.0\refint\HealthDelivery.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\obj\Debug\net6.0\HealthDelivery.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\obj\Debug\net6.0\HealthDelivery.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\HealthDelivery\obj\Debug\net6.0\ref\HealthDelivery.dll

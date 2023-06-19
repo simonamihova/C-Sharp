@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\obj\Debug\net6.0\09_Palindrome.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\obj\Debug\net6.0\09_Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\obj\Debug\net6.0\09_Palindrome.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\obj\Debug\net6.0\09_Palindrome.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\obj\Debug\net6.0\09_Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\bin\Debug\net6.0\09_Palindrome.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\bin\Debug\net6.0\09_Palindrome.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\bin\Debug\net6.0\09_Palindrome.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\bin\Debug\net6.0\09_Palindrome.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\bin\Debug\net6.0\09_Palindrome.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\obj\Debug\net6.0\09_Palindrome.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\obj\Debug\net6.0\refint\09_Palindrome.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\obj\Debug\net6.0\09_Palindrome.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\obj\Debug\net6.0\09_Palindrome.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Methods Exercise\09_Palindrome\obj\Debug\net6.0\ref\09_Palindrome.dll

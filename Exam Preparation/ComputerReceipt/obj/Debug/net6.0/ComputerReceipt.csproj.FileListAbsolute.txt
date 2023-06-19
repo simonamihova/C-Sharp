@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\bin\Debug\net6.0\ComputerReceipt.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\bin\Debug\net6.0\ComputerReceipt.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\bin\Debug\net6.0\ComputerReceipt.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\bin\Debug\net6.0\ComputerReceipt.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\bin\Debug\net6.0\ComputerReceipt.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\obj\Debug\net6.0\ComputerReceipt.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\obj\Debug\net6.0\ComputerReceipt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\obj\Debug\net6.0\ComputerReceipt.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\obj\Debug\net6.0\ComputerReceipt.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\obj\Debug\net6.0\ComputerReceipt.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\obj\Debug\net6.0\ComputerReceipt.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\obj\Debug\net6.0\refint\ComputerReceipt.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\obj\Debug\net6.0\ComputerReceipt.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\obj\Debug\net6.0\ComputerReceipt.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Preparation\ComputerReceipt\obj\Debug\net6.0\ref\ComputerReceipt.dll
