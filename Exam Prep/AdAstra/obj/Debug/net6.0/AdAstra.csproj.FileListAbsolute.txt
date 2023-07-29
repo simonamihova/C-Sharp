@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\bin\Debug\net6.0\AdAstra.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\bin\Debug\net6.0\AdAstra.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\bin\Debug\net6.0\AdAstra.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\bin\Debug\net6.0\AdAstra.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\bin\Debug\net6.0\AdAstra.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\obj\Debug\net6.0\AdAstra.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\obj\Debug\net6.0\AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\obj\Debug\net6.0\AdAstra.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\obj\Debug\net6.0\AdAstra.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\obj\Debug\net6.0\AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\obj\Debug\net6.0\AdAstra.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\obj\Debug\net6.0\refint\AdAstra.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\obj\Debug\net6.0\AdAstra.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\obj\Debug\net6.0\AdAstra.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\Exam Prep\AdAstra\obj\Debug\net6.0\ref\AdAstra.dll
