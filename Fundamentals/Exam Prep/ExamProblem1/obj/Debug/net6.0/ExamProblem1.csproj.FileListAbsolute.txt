@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\bin\Debug\net6.0\ExamProblem1.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\bin\Debug\net6.0\ExamProblem1.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\bin\Debug\net6.0\ExamProblem1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\bin\Debug\net6.0\ExamProblem1.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\bin\Debug\net6.0\ExamProblem1.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\obj\Debug\net6.0\ExamProblem1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\obj\Debug\net6.0\ExamProblem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\obj\Debug\net6.0\ExamProblem1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\obj\Debug\net6.0\ExamProblem1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\obj\Debug\net6.0\ExamProblem1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\obj\Debug\net6.0\ExamProblem1.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\obj\Debug\net6.0\refint\ExamProblem1.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\obj\Debug\net6.0\ExamProblem1.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\obj\Debug\net6.0\ExamProblem1.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\ExamProblem1\obj\Debug\net6.0\ref\ExamProblem1.dll

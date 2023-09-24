@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\bin\Debug\net6.0\fgj.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\bin\Debug\net6.0\fgj.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\bin\Debug\net6.0\fgj.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\bin\Debug\net6.0\fgj.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\bin\Debug\net6.0\fgj.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\obj\Debug\net6.0\fgj.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\obj\Debug\net6.0\fgj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\obj\Debug\net6.0\fgj.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\obj\Debug\net6.0\fgj.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\obj\Debug\net6.0\fgj.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\obj\Debug\net6.0\fgj.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\obj\Debug\net6.0\refint\fgj.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\obj\Debug\net6.0\fgj.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\obj\Debug\net6.0\fgj.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Exam Prep\fgj\obj\Debug\net6.0\ref\fgj.dll
