@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Stacks and Queues\\StackSum\\StackSum.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Advanced\\Stacks and Queues\\StackSum\\StackSum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Stacks and Queues\\StackSum\\StackSum.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Advanced\\Stacks and Queues\\StackSum\\StackSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Stacks and Queues\\StackSum\\StackSum.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Advanced\\Stacks and Queues\\StackSum\\StackSum.csproj",
         "projectName": "StackSum",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Stacks and Queues\\StackSum\\StackSum.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Advanced\\Stacks and Queues\\StackSum\\StackSum.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\Stacks and Queues\\StackSum\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Advanced\\Stacks and Queues\\StackSum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -39,7 +39,7 @@
 
             int sum = 0;
 
-            if (stack.Count > 0)
+            while (stack.Count > 0)
             {
                 sum += stack.Pop();
             }
