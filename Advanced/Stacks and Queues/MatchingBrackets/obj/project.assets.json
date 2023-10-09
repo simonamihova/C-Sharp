@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Advanced\\Stacks and Queues\\Simole Calculator\\Simple Calculator.csproj",
-      "projectName": "Simple Calculator",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Advanced\\Stacks and Queues\\Simole Calculator\\Simple Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Advanced\\Stacks and Queues\\Simole Calculator\\matchingBrackets.csproj",
+      "projectName": "matchingBrackets",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Advanced\\Stacks and Queues\\Simole Calculator\\matchingBrackets.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lenovo\\Desktop\\C# FUNDAMENTALS\\C-Sharp\\Advanced\\Stacks and Queues\\Simole Calculator\\obj\\",
       "projectStyle": "PackageReference",
