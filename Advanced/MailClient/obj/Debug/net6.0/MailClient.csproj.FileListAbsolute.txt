@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\MailClient\MailClient\bin\Debug\net6.0\MailClient.exe
+C:\Users\Lenovo\Downloads\MailClient\MailClient\bin\Debug\net6.0\MailClient.deps.json
+C:\Users\Lenovo\Downloads\MailClient\MailClient\bin\Debug\net6.0\MailClient.runtimeconfig.json
+C:\Users\Lenovo\Downloads\MailClient\MailClient\bin\Debug\net6.0\MailClient.dll
+C:\Users\Lenovo\Downloads\MailClient\MailClient\bin\Debug\net6.0\MailClient.pdb
+C:\Users\Lenovo\Downloads\MailClient\MailClient\obj\Debug\net6.0\MailClient.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\MailClient\MailClient\obj\Debug\net6.0\MailClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\MailClient\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\MailClient\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\MailClient\MailClient\obj\Debug\net6.0\MailClient.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\MailClient\MailClient\obj\Debug\net6.0\MailClient.dll
+C:\Users\Lenovo\Downloads\MailClient\MailClient\obj\Debug\net6.0\refint\MailClient.dll
+C:\Users\Lenovo\Downloads\MailClient\MailClient\obj\Debug\net6.0\MailClient.pdb
+C:\Users\Lenovo\Downloads\MailClient\MailClient\obj\Debug\net6.0\MailClient.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\MailClient\MailClient\obj\Debug\net6.0\ref\MailClient.dll

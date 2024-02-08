@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffRoad", "OffRoad\OffRoad.csproj", "{1B7CEFB4-6FAE-4958-8DAF-E6AE751A3538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fishing", "Fishing\Fishing.csproj", "{D5DA171E-1922-496B-A10B-075A94076498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7CEFB4-6FAE-4958-8DAF-E6AE751A3538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7CEFB4-6FAE-4958-8DAF-E6AE751A3538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7CEFB4-6FAE-4958-8DAF-E6AE751A3538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7CEFB4-6FAE-4958-8DAF-E6AE751A3538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DA171E-1922-496B-A10B-075A94076498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DA171E-1922-496B-A10B-075A94076498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DA171E-1922-496B-A10B-075A94076498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DA171E-1922-496B-A10B-075A94076498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32FF44BA-3D3B-4DFC-BCB9-DE878A6BB5A8}
+	EndGlobalSection
+EndGlobal

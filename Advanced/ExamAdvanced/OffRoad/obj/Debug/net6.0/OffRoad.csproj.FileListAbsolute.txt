@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\obj\Debug\net6.0\OffRoad.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\obj\Debug\net6.0\OffRoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\obj\Debug\net6.0\OffRoad.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\obj\Debug\net6.0\OffRoad.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\obj\Debug\net6.0\OffRoad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\bin\Debug\net6.0\OffRoad.exe
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\bin\Debug\net6.0\OffRoad.deps.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\bin\Debug\net6.0\OffRoad.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\bin\Debug\net6.0\OffRoad.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\bin\Debug\net6.0\OffRoad.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\obj\Debug\net6.0\OffRoad.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\obj\Debug\net6.0\refint\OffRoad.dll
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\obj\Debug\net6.0\OffRoad.pdb
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\obj\Debug\net6.0\OffRoad.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# FUNDAMENTALS\C-Sharp\Advanced\ExamAdvanced\OffRoad\obj\Debug\net6.0\ref\OffRoad.dll
